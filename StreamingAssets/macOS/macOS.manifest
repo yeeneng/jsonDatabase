@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 547775497
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes.plans
+      Dependencies: {}
+    Info_1:
+      Name: scenes.video
+      Dependencies: {}
