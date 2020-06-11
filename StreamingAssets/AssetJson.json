@@ -3,11 +3,30 @@
     "aBundleDataList": [
         {
             "aBundleName_extension": "scenes.plans",
-            "aBundle_url": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu"
+            "aBundle_url": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu",
+            "aBundle_url_android": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu",
+            "aBundle_url_ios": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu",
+            "aBundle_url_mac": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu",
+            "aBundle_url_window": "https://drive.google.com/uc?export=download&id=1INmd8mnidJcZ637LxgDN04KKKizRDvpu",
+            "aBundle_version": "1"
         },
         {
             "aBundleName_extension": "scenes.video",
-            "aBundle_url": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1"
+            "aBundle_url": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_android": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_ios": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_mac": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_window": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_version": "1"
+        },
+        {
+            "aBundleName_extension": "scenes.gyro",
+            "aBundle_url": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_android": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_ios": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_mac": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_url_window": "https://drive.google.com/uc?export=download&id=1uWeiUlygqn3mv67WJO3_ox_10-StZAj1",
+            "aBundle_version": "1"
         }
     ]
 }

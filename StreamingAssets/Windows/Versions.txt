@@ -1,1 +1,1 @@
-{"bundles":[{"bundleName":"models","version":0,"crc":0},{"bundleName":"models.cube","version":0,"crc":2417482816},{"bundleName":"scenes","version":0,"crc":2417482816},{"bundleName":"scenes.plans","version":0,"crc":2497070801},{"bundleName":"scenes.video","version":0,"crc":2965465666}]}
+{"bundles":[{"bundleName":"resources","version":0,"crc":0},{"bundleName":"resources.data","version":0,"crc":236336746},{"bundleName":"scenes.gyro","version":0,"crc":1836832017},{"bundleName":"scenes.plans","version":0,"crc":2049462911},{"bundleName":"scenes.video","version":0,"crc":6391556}]}

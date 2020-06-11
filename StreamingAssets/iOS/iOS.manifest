@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4165033051
+CRC: 655763261
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: scenes.video
+      Dependencies: {}
+    Info_2:
+      Name: resources.data
+      Dependencies: {}
+    Info_3:
+      Name: scenes.gyro
       Dependencies: {}
