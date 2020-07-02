@@ -1,5 +1,11 @@
 {
-    "version": "1",
+    "version": "0",
+    "manifestData": {
+        "aBundle_manifest_android": "https://github.com/yeeneng/jsonDatabase/raw/master/StreamingAssets/Android/Android.manifest",
+        "aBundle_manifest_ios": "https://github.com/yeeneng/jsonDatabase/raw/master/StreamingAssets/iOS/iOS.manifest",
+        "aBundle_manifest_mac": "https://github.com/yeeneng/jsonDatabase/raw/master/StreamingAssets/macOS/macOS.manifest",
+        "aBundle_manifest_window": "https://github.com/yeeneng/jsonDatabase/raw/master/StreamingAssets/Windows/Windows.manifest"
+    },
     "aBundleDataList": [
         {
             "aBundleName_extension": "scenes.plans",
@@ -8,7 +14,7 @@
             "aBundle_url_ios": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/iOS/scenes.plans?raw=true",
             "aBundle_url_mac": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/macOS/scenes.plans?raw=true",
             "aBundle_url_window": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/Windows/scenes.plans?raw=true",
-            "aBundle_version": "1"
+            "aBundle_version": "0"
         },
         {
             "aBundleName_extension": "scenes.video",
@@ -17,7 +23,7 @@
             "aBundle_url_ios": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/iOS/scenes.video?raw=true",
             "aBundle_url_mac": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/macOS/scenes.video?raw=true",
             "aBundle_url_window": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/Windows/scenes.video?raw=true",
-            "aBundle_version": "1"
+            "aBundle_version": "0"
         },
         {
             "aBundleName_extension": "scenes.gyro",
@@ -26,7 +32,7 @@
             "aBundle_url_ios": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/iOS/scenes.gyro?raw=true",
             "aBundle_url_mac": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/macOS/scenes.gyro?raw=true",
             "aBundle_url_window": "https://github.com/yeeneng/jsonDatabase/blob/master/StreamingAssets/Windows/scenes.gyro?raw=true",
-            "aBundle_version": "1"
+            "aBundle_version": "0"
         }
     ]
 }
