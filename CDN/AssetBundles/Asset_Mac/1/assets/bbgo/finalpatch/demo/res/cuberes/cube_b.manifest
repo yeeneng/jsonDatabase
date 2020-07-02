@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 454368532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86d0eb7c1dbf90a0bf0aa266de6d54e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Demo/Res/CubeRes/Cube_B.mat
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/bbgo/finalpatch/demo/res/cuberes/triangle

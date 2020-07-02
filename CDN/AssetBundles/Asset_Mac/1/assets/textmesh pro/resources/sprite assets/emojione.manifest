@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 433047683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b338850f789a6eabcc2ba424c486143d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7a5115f23c79438b10998998224aedc
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/resources/shaders/tmp_sprite
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/sprites/emojione

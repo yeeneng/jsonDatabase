@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3867523097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7aa3ce542d1c5179671ffcaae1074124
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1728383019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2ae6bd1879b05dc335bb96bf430bc1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 973f02536e34e82e27424fdc11b33a16
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c6d2a09449b41e4b85a11b581a22163, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/FinalPatchData.asset
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2614579061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5d6276975d5006fc601b8e3bb02c082
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/MoviePlayer/Sample movies/Sintel (480p mjpeg, 2ch24khz alaw).avi.bytes
+Dependencies: []

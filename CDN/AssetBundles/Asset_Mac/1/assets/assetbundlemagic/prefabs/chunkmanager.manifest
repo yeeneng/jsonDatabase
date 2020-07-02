@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 713487937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eaa1cb9e0020fd650c969d86b7d322b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfd67e0d1ab0dd813299a9c09a605405
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7c5aaee8a1f84cbfa6f51236f0495ec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleMagic/Prefabs/ChunkManager.prefab
+Dependencies: []

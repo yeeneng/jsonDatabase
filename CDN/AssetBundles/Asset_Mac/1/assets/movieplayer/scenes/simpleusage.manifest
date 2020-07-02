@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4149958698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b73ed5be9cb1aab32c608fd18f97c35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a95fcea568ead0cb364b7dbf57900bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ef719e6eb21bda4aaec7bd8c8d3d2e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8712039e785010e4680b20a79845db94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/MoviePlayer/Scenes/SimpleUsage.unity
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/movieplayer/sample
+  movies/sintel (480p mjpeg, 2ch24khz alaw).avi

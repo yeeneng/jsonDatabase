@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3847243910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc9e0e661795fd9c4133ab3f5291b812
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f71db9ec72bdac2112171d906e00efb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c9c3a5a118574cc0a6a2e7cc2d2a4b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleMagic/Prefabs/AssetBundlesMagic.prefab
+Dependencies: []

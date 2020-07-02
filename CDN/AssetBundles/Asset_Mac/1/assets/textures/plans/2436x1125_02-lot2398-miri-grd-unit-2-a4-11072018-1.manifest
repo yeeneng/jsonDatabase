@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2633667609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06e464699fcfbcfe82b989c169aa72da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Plans/2436x1125_02-Lot2398-Miri-Grd-Unit-2-A4-11072018-1.jpg
+Dependencies: []

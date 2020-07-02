@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<PatchData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Build="Asset_Mac" Hash="A2AB4C0D509E9429AA0549AE7091246F004515DB">
+  <Bundles>
+    <Bundle Name="AssetBundles" Hash="9D2F29464C8B04DD61D22A24BB31DE5EA64E0454" Size="4691" Version="1" />
+    <Bundle Name="AssetBundles.manifest" Hash="1B59F1DAFF9ABE1842F1E8DDE9E38BA5F698F552" Size="15378" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/animations/pickup" Hash="ECBB8660C72EE9B9989A57011D4B8AC0BF64317F" Size="5062" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/animations/pickup.manifest" Hash="FB0E5F9CD5C811DA7C07896636C4A09A8870A9F3" Size="448" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/colored_circle" Hash="5918EDD2FB9C7B9222B17C6E24E33302F8799552" Size="29912" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/colored_circle.manifest" Hash="65ACDAD76B7B9DFD4F1DEBDCA3A21F418E50F384" Size="398" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/progress-bar" Hash="DF53C06218115D7DC9FADC8DF2E57C43BBB340B0" Size="23358" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/progress-bar.manifest" Hash="7226F34CAE5BCC0272AF8E834A7ACCB54FF337CB" Size="396" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/rotating_loading" Hash="C0F8A4ABC20DEA45BC13B466357888B2A886D8D7" Size="40893" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/images/rotating_loading.manifest" Hash="8E0418770A9CC14B445E3C71DB89E20A094F49EB" Size="400" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/objects" Hash="B97A8DD09F9B4CDE77B47B1DABED68E0F250922E" Size="5905" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/objects.manifest" Hash="311C424F930C7B6F980B62B502B92CE049868A58" Size="1240" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/box" Hash="7F3F1ED7A9E523E083CE4AC1A5ABB9830D04B040" Size="59165" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/box.manifest" Hash="A6D8C7245EB03E740F2C2E4D220D37842B4CD90F" Size="396" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/floor" Hash="5F04CFB35D4D18B1150616ED8717758A8709A865" Size="59044" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/floor.manifest" Hash="26D6B2B5E162481D20F87573B9BF9BD72626986D" Size="398" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/house" Hash="FEDDECAD82C6A3B85EED3970676F08B75B2436BF" Size="59041" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/house.manifest" Hash="B28F8A801C0CA815BE0E7F1D793E64284440B09C" Size="398" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/smallbox" Hash="9D8ACF0ABF6AB2B72E572ED583989FACD6B6576C" Size="59077" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/smallbox.manifest" Hash="54D928CECAE6500039DFFE90165DCCC555439B12" Size="401" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/wall" Hash="200DF8D747A862E837296772DDA97ED67B2172F4" Size="59077" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/models/materials/wall.manifest" Hash="9CB976589F5167622B8D7E41C03CCD022F73AE02" Size="397" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/assetbundlesmagic" Hash="0F515502E46BDDED7B432A20FCF2D5BC5A91E51E" Size="1964" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/assetbundlesmagic.manifest" Hash="184E9DF87BA832BA996A4F435BD9D5130D958687" Size="532" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/chunkmanager" Hash="CDCF1547E9997DA9FF2AF34D445B6E74E237AD93" Size="2100" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/chunkmanager.manifest" Hash="2B3C75FACC6676B306D8AE2DB92FC861ECBC185E" Size="526" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/loadingindicator" Hash="6851AF2C1732CDB90160794301CC0F10565E3806" Size="3573" Version="1" />
+    <Bundle Name="assets/assetbundlemagic/prefabs/loadingindicator.manifest" Hash="84A02165043AA93C1FF472509C4AF5C46D222742" Size="1224" Version="1" />
+    <Bundle Name="assets/audio/back" Hash="EE374CBA0DE874D3F8049F28C9931B89A3AF2579" Size="5349" Version="1" />
+    <Bundle Name="assets/audio/back.manifest" Hash="A8871BA657A6416E647E7D17D465694C549A7BC6" Size="331" Version="1" />
+    <Bundle Name="assets/audio/bgm" Hash="2057131CE6515D2BBD4C5D6A1D45B7E32ECD4598" Size="2385733" Version="1" />
+    <Bundle Name="assets/audio/bgm.manifest" Hash="71CB74D2ABCA390F76F247D9840B789AFCCB2E28" Size="330" Version="1" />
+    <Bundle Name="assets/audio/click" Hash="2FF5B3FD5F1BBD4360CBCD2517FF0D9DCD528495" Size="6777" Version="1" />
+    <Bundle Name="assets/audio/click.manifest" Hash="941CFA86CA92B53ECAB8D47D0083AF31D734C360" Size="332" Version="1" />
+    <Bundle Name="assets/audio/menu" Hash="9147B2BB795F132237E0B9ED7DB40D24A7C9A441" Size="23109" Version="1" />
+    <Bundle Name="assets/audio/menu-reverse" Hash="0C3D14D55DCB5BB1C2CD3534F409B0C469C92664" Size="10064" Version="1" />
+    <Bundle Name="assets/audio/menu-reverse.manifest" Hash="9B285CCF771F288FCDE404DCB2E060EB2DBBEB56" Size="338" Version="1" />
+    <Bundle Name="assets/audio/menu.manifest" Hash="2E94D50D33730D940226AFC0A4A4D9905A2760B2" Size="331" Version="1" />
+    <Bundle Name="assets/audio/slideleft" Hash="B2892145C0A8251BBDA20EE95B6B04C577DAA5B2" Size="14203" Version="1" />
+    <Bundle Name="assets/audio/slideleft.manifest" Hash="761BEFDCC4D5C7B053ED70924DFE4A64DDAF0C43" Size="336" Version="1" />
+    <Bundle Name="assets/audio/slideright" Hash="7869DF17CC863B0C2EFD0351843359A7C5741110" Size="15205" Version="1" />
+    <Bundle Name="assets/audio/slideright.manifest" Hash="9E89FD5E2450331FDD748DA2C19FB4D8F0EDC6C7" Size="337" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/demoscene" Hash="D98C439712455CF6F1428A3E1BD58B8CBC8B07B9" Size="70885" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/demoscene.manifest" Hash="15DB3A0C74A0DDFA9AB2176821152C62866A7531" Size="1136" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/bundlescene" Hash="55CA9D4D87848AE1BCD77576691E6791E2F00366" Size="69295" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/bundlescene.manifest" Hash="AEE0CA4B4B16F67E61054853A7F46D1F44DA037F" Size="1061" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_b" Hash="72DD4FF300DE2BED4A5318DBE126A2340DCCD9EC" Size="1969" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_b.manifest" Hash="D94CD91DBE605A69FBD97449B2106028A46BA95F" Size="715" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_r" Hash="515ABA11542BC0C4B44C4FDAE5F9AAF7B04095A9" Size="1986" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/cube_r.manifest" Hash="969B7CA77B5F84CB91026C1611287C15D3E3B481" Size="715" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/ui/canvas" Hash="61EC09E9CE5D185124079D5B6B6DDD6218B493DB" Size="6435" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/bundles/ui/canvas.manifest" Hash="6F26DC803DB0DAFCFE618B2C3B261F0F973883A2" Size="1164" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/editor/resources/finalpatcheditordata" Hash="9960A340CD51D7A6AE582591E504027BA3C81905" Size="742" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/editor/resources/finalpatcheditordata.manifest" Hash="D8D5601F74419407FF4E903E0B653BF74D11FBCF" Size="345" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/square" Hash="3DA8506CBB68E287D5CE94C2FCDAFD6A8A0BA6C4" Size="2417" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/square.manifest" Hash="6E3E28F5DCBBD61713222B6684F43E14C035D34D" Size="390" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_b" Hash="0D170AAF9D81C41C86E121B8065323DAA0CC31B3" Size="59476" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_b.manifest" Hash="0C184B11FDC67733C0A9887E8E2639DE8BC23C79" Size="567" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_g" Hash="06FAC3B5010D2D70FC4E4492322584BC9A1E2372" Size="59077" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_g.manifest" Hash="1BD86281FE7058AA8899EFDB50239E29E9E89633" Size="398" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_r" Hash="A307EAD69731FABD849931E085B9E5342A6D1C7B" Size="59554" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/cube_r.manifest" Hash="C4D855B3D2F9169CFF72291577BBF3B80D98486E" Size="567" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/triangle" Hash="4A373C40B9E2F43E1F0B470163F14E53F73873AF" Size="2428" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/res/cuberes/triangle.manifest" Hash="4D68CD33726CAA6A5CF5DD40AB3E2A4CA6D7FF94" Size="400" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/resources/finalpatchdata" Hash="77ACEEB323B75F9C7B3B9F19AC05239A542F8C15" Size="1342" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/demo/resources/finalpatchdata.manifest" Hash="EEAF11667265B103BE8108B2F4FD85CFE204029B" Size="460" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/browse" Hash="33347155E8198DD529ED8286C31670F4D96E4135" Size="9985" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/browse.manifest" Hash="4A08AF102D489F77A1ACD826797669589D61A8FC" Size="360" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/copy" Hash="2E915BC170E399A5AE7FFE642FAB3830910A12A8" Size="6551" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/copy.manifest" Hash="C4D481E10678ED6CAD95D2EA895425E07360D06B" Size="358" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/delete" Hash="ED013700D9F753B107C5AD9812B3C7BC942318AF" Size="5691" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/delete.manifest" Hash="6744D6CFAAC2CE4631703FDCC79456CF1792CDD5" Size="360" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/discard" Hash="6863DB0C2625B1A228A223A842DECE3CA6DA2550" Size="8995" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/discard.manifest" Hash="810926854CD71B09BCC895288675E4231060DD0D" Size="361" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/edit" Hash="DA0468B0EE42BB07B8FA7F77415B858E4E6A643C" Size="6515" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/edit.manifest" Hash="E7B1AD6D608BF0ED9CF1FD46650FCA2ADE02B26C" Size="357" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/make" Hash="BD116405E78E412F61505567C5EFCF81FBE86ED8" Size="4471" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/make.manifest" Hash="5B0713458AEAB3E63EB2175582FAEC083794F904" Size="358" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/reveal" Hash="060F6EA9A737BBDC1531DFA24CEDF21E0C6657A6" Size="6920" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/reveal.manifest" Hash="4A44F355E9B52F707E5911DDF3A41393113370C3" Size="360" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/save" Hash="689BA3F4EDDABCCA34E1173CAC5EE6EC817D8FA2" Size="5715" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/save.manifest" Hash="5B0F92D60E188C768A2435867873BB0F490D36CE" Size="358" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tab" Hash="B14344809E7055BDB6322792D566C34E7089C317" Size="1354" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tab.manifest" Hash="63F019D58E9ACF17F0C51BA4737056916E5DC6C0" Size="357" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabborder" Hash="E5BAB3D238207BA8C05D10025ECC7E34D0FF06A5" Size="1445" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabborder.manifest" Hash="0C2342AB5ED579231EEC838AB439854D626BFBE7" Size="361" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabborderpro" Hash="5BE788CA1C9DA0667D93CC3A8A537DC8CC5C3A66" Size="1379" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabborderpro.manifest" Hash="5E376ECC58770907A61704D04D184E15AF11F5DC" Size="366" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabpro" Hash="8D19B85278232E02D257A86BC6ED6A400A8B6B33" Size="1388" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabpro.manifest" Hash="0A0507BB192CA0E1ECC84D84B46A58474E45CA02" Size="359" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabselected" Hash="5E7AD9B874001BFD9D270033D847911D955B2E3B" Size="1441" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabselected.manifest" Hash="F9F5201339E24AFA0D723D8500E49D877CED9E5D" Size="365" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabselectedpro" Hash="5AB250CA37FE47444E5BE863C6A2B99FBF3210EA" Size="1414" Version="1" />
+    <Bundle Name="assets/bbgo/finalpatch/editor/resources/tabselectedpro.manifest" Hash="BB7F7919E790FB23B7B5EEE73A2C015844E564AB" Size="368" Version="1" />
+    <Bundle Name="assets/editor/resources/finalpatcheditordata" Hash="8DA1E78C231BDDFEECD8422C4297B5D243619A0D" Size="731" Version="1" />
+    <Bundle Name="assets/editor/resources/finalpatcheditordata.manifest" Hash="FCFDCA2DEBD900E39A597547AD6FA0A7CBFB3D17" Size="325" Version="1" />
+    <Bundle Name="assets/fbx/globe360" Hash="2EC69FE0DCE38A9B6ECD5E184CA9DBFB144EC6CB" Size="289471" Version="1" />
+    <Bundle Name="assets/fbx/globe360.manifest" Hash="6C37F6E93E09FF6A0704F7FC43E978230B52568C" Size="559" Version="1" />
+    <Bundle Name="assets/materials/gyro_globe" Hash="EA58108F778E6651A306A9E26FDB37F64F6761DE" Size="16958" Version="1" />
+    <Bundle Name="assets/materials/gyro_globe.manifest" Hash="60B8CBB862F0FE092D7DFEB9CCDEDE9BD7C96C55" Size="525" Version="1" />
+    <Bundle Name="assets/materials/m_cube" Hash="B65A7DCFE0A45EF0CBE3BFF6A6364D633FA0B5B9" Size="28252" Version="1" />
+    <Bundle Name="assets/materials/m_cube.manifest" Hash="6FDB05F4BD2332B2D8688494CC29D8C72AB01887" Size="539" Version="1" />
+    <Bundle Name="assets/movieplayer/changelog" Hash="CE6D2AC3124F4B165FE3CE10A39D68EC148FCDEE" Size="2506" Version="1" />
+    <Bundle Name="assets/movieplayer/changelog.manifest" Hash="617F88D73D8851050B3E34870CE92D98F6AA92CB" Size="341" Version="1" />
+    <Bundle Name="assets/movieplayer/sample movies/sintel (480p mjpeg, 2ch24khz alaw).avi" Hash="C7F7E1400DDEEFDA6AD3CC075AC77C751B08A3BE" Size="21975721" Version="1" />
+    <Bundle Name="assets/movieplayer/sample movies/sintel (480p mjpeg, 2ch24khz alaw).avi.manifest" Hash="CF45F9A62E815D9201095AC28E0E68E6F9B31187" Size="387" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/featuredemo" Hash="FD7FE366131041D90C296A7053447C83148D19FF" Size="11897" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/featuredemo.manifest" Hash="BB73CF6C875AEB95D1DF0FB8C4AEB92A2D760B60" Size="1538" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/scriptingdemo" Hash="C86FC620157A84F2D9346B7553DF9263EE3282DD" Size="4029" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/scriptingdemo.manifest" Hash="36C9F7E0DC50624A4C64E074587825FAA4BFE4E4" Size="790" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/simpleusage" Hash="21C92B21E0220FE3E7B677C2B7B8C1190BC916AE" Size="5155" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/simpleusage.manifest" Hash="5B1C1CA7127AC73E858D232D9031BF37F5F92609" Size="1112" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/materials/movieplayer material" Hash="6F7D905D60B8601F775C2FB63EB2F6860A7B0B33" Size="6620" Version="1" />
+    <Bundle Name="assets/movieplayer/scenes/materials/movieplayer material.manifest" Hash="1775D5E54FF9CA90BB3C6D223CDE0B9F5DCCBA2F" Size="408" Version="1" />
+    <Bundle Name="assets/movieplayer/shaders/unlit_texture_manualgamma" Hash="735B042373F1D53E4D008415FE58E4C96D09FDEA" Size="6621" Version="1" />
+    <Bundle Name="assets/movieplayer/shaders/unlit_texture_manualgamma.manifest" Hash="2D04C0D05CC5995825548EB2E0A7182AD21E5CF1" Size="368" Version="1" />
+    <Bundle Name="assets/movieplayer/shaders/unlit_transparent_chromakey" Hash="D8E4EF0FBF18B55209D48DAF654AD28E20D631F4" Size="6703" Version="1" />
+    <Bundle Name="assets/movieplayer/shaders/unlit_transparent_chromakey.manifest" Hash="4EE3FFF61A48DA13C7E1A77E3CA2C877DC9C7E8A" Size="371" Version="1" />
+    <Bundle Name="assets/plugins/betterstreamingassets/bsa_testscene" Hash="56F8FE0B3F5A2543D052B16A7CEE7D78AA32626E" Size="70767" Version="1" />
+    <Bundle Name="assets/plugins/betterstreamingassets/bsa_testscene.manifest" Hash="733636892AA7300D62F8CBDCCDEF31549D1469E0" Size="1604" Version="1" />
+    <Bundle Name="assets/plugins/betterstreamingassets/readme" Hash="E5986984DF36B34A59D14678D57AEAA003F053E2" Size="2753" Version="1" />
+    <Bundle Name="assets/plugins/betterstreamingassets/readme.manifest" Hash="93C35D5DE8F8FB2D3BBE2258AA3A5B263ADA7A12" Size="357" Version="1" />
+    <Bundle Name="assets/resources/data" Hash="4F6876223DF822DDD4BE70EFAF25504D305AC4C1" Size="1702" Version="1" />
+    <Bundle Name="assets/resources/data.manifest" Hash="9C0A3CA6F1E43A14D314B70AA57B0BA3CC65BF43" Size="749" Version="1" />
+    <Bundle Name="assets/resources/finalpatchdata" Hash="41F237D7BD4A420D1433E4EC2DA25B9782C02442" Size="1344" Version="1" />
+    <Bundle Name="assets/resources/finalpatchdata.manifest" Hash="3A9ABCA51509520B5A3951ABC9A19AFB20C08170" Size="439" Version="1" />
+    <Bundle Name="assets/resources/rabbit.avi" Hash="4364F6EED6DB1C9A7F75764A0412DD52C9449D72" Size="8909595" Version="1" />
+    <Bundle Name="assets/resources/rabbit.avi.manifest" Hash="FE0D8AC77F16F590A9948BA7B3060CAB613DA70D" Size="342" Version="1" />
+    <Bundle Name="assets/resources/globebytes/hotspot_arisa_pool_hr.jpg" Hash="10686F389E1AA8784D0841C9D8448C014CEC50DA" Size="5968195" Version="1" />
+    <Bundle Name="assets/resources/globebytes/hotspot_arisa_pool_hr.jpg.manifest" Hash="1DAA273D8890CC8C44E8AE38D2C12ECB31977642" Size="369" Version="1" />
+    <Bundle Name="assets/resources/globebytes/hotspot_arisa_skybbq_hr_v2.jpg" Hash="C9A727962C599DDF5DD2CDD8370A40D3170606F1" Size="7018965" Version="1" />
+    <Bundle Name="assets/resources/globebytes/hotspot_arisa_skybbq_hr_v2.jpg.manifest" Hash="B8298CB2DB4B94B0B627C15DC4AF537435B26523" Size="374" Version="1" />
+    <Bundle Name="assets/scenes/patcheslauncher_v1" Hash="226F2CF616F63D3E11BF1633E3452115EF483F0B" Size="73631" Version="1" />
+    <Bundle Name="assets/scenes/patcheslauncher_v1.manifest" Hash="F1C026A9CE4034B29ED2B32B011E68A6CF484FE1" Size="2435" Version="1" />
+    <Bundle Name="assets/scenes/samplescene" Hash="F5F3F136916F9567CE019C8E15EB80BC8ACAA47E" Size="71228" Version="1" />
+    <Bundle Name="assets/scenes/samplescene.manifest" Hash="42F575F7BD4622CAB56C2CFCE43282CFB3AB5758" Size="1837" Version="1" />
+    <Bundle Name="assets/scenes/scenesmenu_v1" Hash="15E0213049041AB92936A75B286D218B7FD9C001" Size="21886" Version="1" />
+    <Bundle Name="assets/scenes/scenesmenu_v1.manifest" Hash="E1BB0123981225C3EC7DFA07E056024434C3F882" Size="2252" Version="1" />
+    <Bundle Name="assets/scenes/splash_v1" Hash="BAAF6C5A3771AA2CD274A8D7FF53CDEB00051DD9" Size="25115" Version="1" />
+    <Bundle Name="assets/scenes/splash_v1.manifest" Hash="E92DB54C135DCD0FF552C6AB3814812927553392" Size="2295" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/gyro_v1" Hash="520EAB99110921B4EAAC304C495CECFD61D88B75" Size="23865" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/gyro_v1.manifest" Hash="AD2DC515D7DCCFC749D191431CC8853C2AF705A5" Size="3073" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/plans_v1_old" Hash="AF2F9AAD1BBA899E8A1D1C41213FD16B67AF282E" Size="24304" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/plans_v1_old.manifest" Hash="A201254854358E22A91B3ABBC675969258F2D650" Size="3471" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/video_v1" Hash="8A08D6135866279B616449000B9F04683022AE10" Size="585916" Version="1" />
+    <Bundle Name="assets/scenes/scenes_for_bundles/video_v1.manifest" Hash="360AC38EA09F31985BC44A3DA08826DD88DBA924" Size="2698" Version="1" />
+    <Bundle Name="assets/textmesh pro/fonts/liberationsans" Hash="F71F13DD312CF71D6A21E6751D64F431210775C6" Size="157115" Version="1" />
+    <Bundle Name="assets/textmesh pro/fonts/liberationsans - ofl" Hash="1B8A7A110CDAA0D66FD6EA08CCCB3EA4C98E1060" Size="2681" Version="1" />
+    <Bundle Name="assets/textmesh pro/fonts/liberationsans - ofl.manifest" Hash="3DEB18719DB24532C428A3086A66B9CC25FD7480" Size="360" Version="1" />
+    <Bundle Name="assets/textmesh pro/fonts/liberationsans.manifest" Hash="7A33385E41E2004D8CB1FD2BFCD0C1CCC7736580" Size="469" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/linebreaking following characters" Hash="1FCF8722C83680B77FD7EC0A52FA9310417BAAA2" Size="1013" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/linebreaking following characters.manifest" Hash="5073B03F3B7DA3F8E64C3E094F25945323480FA0" Size="377" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/linebreaking leading characters" Hash="96989F0905167EB89A9A56B4C0F5735C39CAEC06" Size="914" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/linebreaking leading characters.manifest" Hash="ADA8719F23431CDF27E832DED2724B40370F323E" Size="375" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/tmp settings" Hash="C188A79D575367CBC5F2FA1ABCBE8AD70861DC22" Size="2032" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/tmp settings.manifest" Hash="68F8610BA3E018E0DACD29664D2D02BAA5571014" Size="1507" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf" Hash="C9E4EC8A1E8E92516F6DE48D4C2B00214F5229C0" Size="194659" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - drop shadow" Hash="A312B86151E83A89B8B8FEDDB763D22EDE4CECFE" Size="1936" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - drop shadow.manifest" Hash="CEE419E4FF7F0C5B496D09131EEC712B4305594F" Size="762" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - fallback" Hash="96537B4B0985C6647CCC944E44DE7552541FC48C" Size="4764" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - fallback.manifest" Hash="E5674070726C72BFAD3852C1493E0F2F2D323812" Size="904" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - outline" Hash="1FF3525AD00BBA35DB35E8E452E57F9C72E4479F" Size="1900" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf - outline.manifest" Hash="7FFBE51566A27FC385CE8DDA9C2D6F2A3200A248" Size="758" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/fonts &amp; materials/liberationsans sdf.manifest" Hash="FB0DF9503DD1F528D39329F0DDE378119F402954" Size="1021" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap" Hash="38F04EA05E17A9B695CE9CE4DE8634093B22F793" Size="8583" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap-custom-atlas" Hash="C364BA9E6D198E8E625D794D0DE249FC984B7593" Size="8479" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap-custom-atlas.manifest" Hash="7848DE5A9D32CFC02D113942B128BA4392BBBED8" Size="378" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap-mobile" Hash="368AFB9B9A4FFCF605D2EFE99761D7FB9FD1B8AB" Size="8696" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap-mobile.manifest" Hash="3C411F8AFB3052B8BA3CA307F0FF98D8B8B5D322" Size="372" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_bitmap.manifest" Hash="49EAF248FB8E3CA74A5379D509662258DEDEFF3E" Size="364" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf" Hash="5C6DE14385BAD63FDE5AB67A69E1B7B35FFC9348" Size="11845" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf overlay" Hash="354797337FA68C7DB8426740AB48F5B127379747" Size="11844" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf overlay.manifest" Hash="948DECAB63C3BA3FC08A4B84AFEB0D4040B4868F" Size="370" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile" Hash="4A29086AF2A01839C112945B020B0CEE3F399BCD" Size="10136" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile masking" Hash="EAB0812A37DB1DE3C0E17B6801674AE8E30CB8DB" Size="11032" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile masking.manifest" Hash="B88B2A8D0E28D6074CA8E2ECE0C309F77950F228" Size="377" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile overlay" Hash="834331826BB4B5F4B4E7E5048E232A9666CC556A" Size="10137" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile overlay.manifest" Hash="58618984DAEB1FF6D5F98F92778108FB644CC13F" Size="377" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-mobile.manifest" Hash="E5FCA9A4FE9D9CE6F4EACB64B7EB3BE77581A6FC" Size="369" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-surface" Hash="0F96FE16C0F6B671E46BD16081710974A2AE2116" Size="30615" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-surface-mobile" Hash="CE85DBADD521A3C3A2A9E736E323E3701D62D453" Size="15371" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-surface-mobile.manifest" Hash="0FF9D834A8A74F3F18ED18409BBBE86CFAEEAE31" Size="376" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf-surface.manifest" Hash="CCC08E07DFDFA9AFAE387DC8FAF9085AD7446944" Size="370" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sdf.manifest" Hash="6CAB6EC7BDBF0F1274D31FFCF824DE704679902A" Size="361" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sprite" Hash="1ABC0FA896F1977A1CB4F29E7B29ADB65FDDF7EC" Size="7614" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmp_sprite.manifest" Hash="847F5E39F53111B407F35C19C4018E7BB96D829D" Size="365" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro" Hash="D29346E6DA8A0F8411ABFB5B9D87D56E277A1F23" Size="818" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro.manifest" Hash="E6CB6F065558073504D5DA4083443F69869EF7D5" Size="359" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro_properties" Hash="6B12695BF766A71B19F7FF615FEA3CC0EC92D4FA" Size="828" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro_properties.manifest" Hash="4F0757C2F9B7F8DDF1BFD68ECC0804DC3F78470F" Size="371" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro_surface" Hash="5861B7857AF253D087369E9B800AD2C41C990655" Size="826" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/shaders/tmpro_surface.manifest" Hash="0ED34DBA0E3B1C0FC6942F03C95097DF82C83448" Size="368" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/sprite assets/emojione" Hash="AFCE1F10CBD9CFBA54743B00D5CB34098917973E" Size="2833" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/sprite assets/emojione.manifest" Hash="B8355145F565F05341A209DE8298997C764E07CC" Size="832" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/style sheets/default style sheet" Hash="372A31B31B87E5EE4BE360B0722861C049E60BB9" Size="1815" Version="1" />
+    <Bundle Name="assets/textmesh pro/resources/style sheets/default style sheet.manifest" Hash="9D248DC8C0B2631E793EE3A984CFC88A996FEB37" Size="470" Version="1" />
+    <Bundle Name="assets/textmesh pro/sprites/emojione" Hash="C6A731B64BE4F2EE2564AB0FE62E005210B9EE39" Size="39031" Version="1" />
+    <Bundle Name="assets/textmesh pro/sprites/emojione attribution" Hash="4A23EB0A8A2FD43F6252FD1E5E739D69C2E5DA44" Size="944" Version="1" />
+    <Bundle Name="assets/textmesh pro/sprites/emojione attribution.manifest" Hash="B40F16F59A24825577CF42E411A1CE8CB6587AA8" Size="362" Version="1" />
+    <Bundle Name="assets/textmesh pro/sprites/emojione.manifest" Hash="42AE7FB2FF7E5AAB1C33203A825507B980084944" Size="432" Version="1" />
+    <Bundle Name="assets/textures/360phone" Hash="B6F3FA648B9EEAA49CE58911159D353735105F29" Size="3424" Version="1" />
+    <Bundle Name="assets/textures/360phone.manifest" Hash="ED771174275D2D6B55B2CB1CB88CCA0963F37053" Size="377" Version="1" />
+    <Bundle Name="assets/textures/360touch" Hash="2FFA8DAD73F14374B91B0BBF00A1EA1FF1CAC7A1" Size="3737" Version="1" />
+    <Bundle Name="assets/textures/360touch.manifest" Hash="666A2538623EA815099898BEBDA81B8A7FF1D93B" Size="377" Version="1" />
+    <Bundle Name="assets/textures/gyro_rendertexture" Hash="43048687744CD34620B13B27181426E737C117DD" Size="1086" Version="1" />
+    <Bundle Name="assets/textures/gyro_rendertexture.manifest" Hash="9A099FFC4AE243BEC65A53B3963E647443B3C399" Size="358" Version="1" />
+    <Bundle Name="assets/textures/watermark" Hash="93EFB67AE68FF47ACC9E27463B54ECA3E93AFFEB" Size="14350" Version="1" />
+    <Bundle Name="assets/textures/watermark.manifest" Hash="819C1014B8DF538F67F3C8F240DE67CCFC2A7375" Size="378" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_01-lot2398-miri-grd-unit-1-a4-11072018-1" Hash="D03890F6962E50B92886422F30783C2F785E5E4A" Size="150642" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_01-lot2398-miri-grd-unit-1-a4-11072018-1.manifest" Hash="5F45AAA0B310788B6FBDA0B425F019A98612934A" Size="425" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_02-lot2398-miri-grd-unit-2-a4-11072018-1" Hash="AE2AF49497D0DAA4024F36C5E16F3D71B411D5B7" Size="182726" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_02-lot2398-miri-grd-unit-2-a4-11072018-1.manifest" Hash="F9DAD6605CD86AA3CD6AE74A59222F5B477205FE" Size="425" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_03-lot2398-miri-grd-unit-3-a4-11072018-1" Hash="605E23F769CD195EA7A46C465D04B681DBC32E0E" Size="188669" Version="1" />
+    <Bundle Name="assets/textures/plans/2436x1125_03-lot2398-miri-grd-unit-3-a4-11072018-1.manifest" Hash="D1A39F0C11B57301482AF9A3978E62A1417505D6" Size="425" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 12" Hash="8D0BA19B088CFCC7871C704DBA88D0E28C076014" Size="40435" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 12.manifest" Hash="5688B3D4674FF617185C32DD3054853F7B0D9121" Size="391" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 13-22,25-39,42-50" Hash="3CC0E62891448EA6F1701D3D8F60F7536E1D6CD7" Size="42192" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 13-22,25-39,42-50.manifest" Hash="DDA64269070770F4F1625818F34560207571C20D" Size="406" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 23" Hash="2FDD25D15BC471849D1700CFC29BCABDED8E8247" Size="38317" Version="1" />
+    <Bundle Name="assets/textures/plans/tower a level 23.manifest" Hash="F72E1957EDD35B09CDDE1438299249844CD85266" Size="391" Version="1" />
+    <Bundle Name="assets/textures/plans/type a" Hash="5A8EC9322D3FB410807024110BE5263CD8231EB0" Size="49509" Version="1" />
+    <Bundle Name="assets/textures/plans/type a.manifest" Hash="FE285655331FE5F30EC0A44300D250A90CFA059D" Size="381" Version="1" />
+    <Bundle Name="assets/textures/plans/type b" Hash="45F66BEB30B2DCC837F0DF6862C75C99F8FD410A" Size="40504" Version="1" />
+    <Bundle Name="assets/textures/plans/type b.manifest" Hash="245049AAB0818AAE1D71A39E442483C999AF0696" Size="381" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - font asset icon" Hash="7261E972EC984F6664696A2107D27B27BF86075F" Size="2315" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - font asset icon.manifest" Hash="7B8DDD5392314D2EB4E39783C61D58D5BF4D521A" Size="389" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - sprite asset icon" Hash="3F73D30B6AD2F21326C7BA0270366A66EFAE0DCB" Size="2708" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - sprite asset icon.manifest" Hash="E2201652C6751939ADDD5540F3A92276932CCDDE" Size="392" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - text component icon" Hash="B458BD9D06EA26C5F4C8952AA9DA0CB339A5A20D" Size="2219" Version="1" />
+    <Bundle Name="packages/com.unity.textmeshpro/editor resources/gizmos/tmp - text component icon.manifest" Hash="9422A3131A54B97FE79FB06AD910BC4D95BFB7F2" Size="392" Version="1" />
+  </Bundles>
+</PatchData>

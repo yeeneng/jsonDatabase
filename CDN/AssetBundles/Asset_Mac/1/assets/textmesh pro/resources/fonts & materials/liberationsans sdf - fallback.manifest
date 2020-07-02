@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 119143056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 401dcb81ad19151f559481922ffdc002
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54ad4b30af82145d930aecf996b87eb9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/fonts/liberationsans
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/resources/shaders/tmp_sdf-mobile

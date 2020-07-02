@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2075835970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d682961650f9a710300f33cd7b2fb65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d00a935c1026f94d3fe65af316971e5
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c31add6340097493ea24dd4511ed3771, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Data.asset
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/resources/globebytes/hotspot_arisa_pool_hr.jpg
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/resources/globebytes/hotspot_arisa_skybbq_hr_v2.jpg

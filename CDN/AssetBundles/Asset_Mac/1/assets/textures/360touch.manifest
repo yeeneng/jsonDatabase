@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3308665908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83c57b34e9f60a013d353525815c6ea0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/360Touch.png
+Dependencies: []

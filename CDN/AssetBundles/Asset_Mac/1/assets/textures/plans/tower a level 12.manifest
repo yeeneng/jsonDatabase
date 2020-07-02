@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2238526307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccf10e71708de4ddbe061fe2cade1eff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Plans/TOWER A LEVEL 12.jpg
+Dependencies: []

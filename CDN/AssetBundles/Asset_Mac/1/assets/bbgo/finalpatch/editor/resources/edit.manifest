@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 606486421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51b959b239cf657a3bb261f6ea77061b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Editor/Resources/edit.png
+Dependencies: []

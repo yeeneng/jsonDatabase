@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1341991294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd7ec6f36baad451f3b056be8861466e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BBGo/FinalPatch/Editor/Resources/tabBorderPro.png
+Dependencies: []

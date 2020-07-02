@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2171017261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 104e1e0b60a137e4bcd7899cc5930d1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Dependencies: []

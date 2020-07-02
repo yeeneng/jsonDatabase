@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 459805302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba3bcfbc445a1afa162ed9264e6f6988
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/resources/fonts & materials/liberationsans sdf
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/textmesh
+  pro/resources/shaders/tmp_sdf-mobile

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2648748681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba604f7a520ceed546642a560fd9c65d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/MoviePlayer/Scenes/Materials/MoviePlayer material.mat
+Dependencies: []

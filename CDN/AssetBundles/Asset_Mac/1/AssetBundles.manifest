@@ -1,0 +1,424 @@
+ManifestFileVersion: 0
+CRC: 2778769555
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/assetbundlemagic/animations/pickup
+      Dependencies: {}
+    Info_1:
+      Name: assets/assetbundlemagic/images/colored_circle
+      Dependencies: {}
+    Info_2:
+      Name: assets/assetbundlemagic/images/progress-bar
+      Dependencies: {}
+    Info_3:
+      Name: assets/assetbundlemagic/images/rotating_loading
+      Dependencies: {}
+    Info_4:
+      Name: assets/assetbundlemagic/models/materials/box
+      Dependencies: {}
+    Info_5:
+      Name: assets/assetbundlemagic/models/materials/floor
+      Dependencies: {}
+    Info_6:
+      Name: assets/assetbundlemagic/models/materials/house
+      Dependencies: {}
+    Info_7:
+      Name: assets/assetbundlemagic/models/materials/smallbox
+      Dependencies: {}
+    Info_8:
+      Name: assets/assetbundlemagic/models/materials/wall
+      Dependencies: {}
+    Info_9:
+      Name: assets/assetbundlemagic/models/objects
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/models/materials/box
+        Dependency_1: assets/assetbundlemagic/models/materials/floor
+        Dependency_2: assets/assetbundlemagic/models/materials/house
+        Dependency_3: assets/assetbundlemagic/models/materials/smallbox
+        Dependency_4: assets/assetbundlemagic/models/materials/wall
+    Info_10:
+      Name: assets/assetbundlemagic/prefabs/assetbundlesmagic
+      Dependencies: {}
+    Info_11:
+      Name: assets/assetbundlemagic/prefabs/chunkmanager
+      Dependencies: {}
+    Info_12:
+      Name: assets/assetbundlemagic/prefabs/loadingindicator
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/images/colored_circle
+        Dependency_1: assets/assetbundlemagic/images/rotating_loading
+    Info_13:
+      Name: assets/audio/back
+      Dependencies: {}
+    Info_14:
+      Name: assets/audio/bgm
+      Dependencies: {}
+    Info_15:
+      Name: assets/audio/click
+      Dependencies: {}
+    Info_16:
+      Name: assets/audio/menu
+      Dependencies: {}
+    Info_17:
+      Name: assets/audio/menu-reverse
+      Dependencies: {}
+    Info_18:
+      Name: assets/audio/slideleft
+      Dependencies: {}
+    Info_19:
+      Name: assets/audio/slideright
+      Dependencies: {}
+    Info_20:
+      Name: assets/bbgo/finalpatch/demo/bundles/bundlescene
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/bundles/cube_r
+    Info_21:
+      Name: assets/bbgo/finalpatch/demo/bundles/cube_b
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/cube_b
+    Info_22:
+      Name: assets/bbgo/finalpatch/demo/bundles/cube_r
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/cube_r
+    Info_23:
+      Name: assets/bbgo/finalpatch/demo/bundles/ui/canvas
+      Dependencies: {}
+    Info_24:
+      Name: assets/bbgo/finalpatch/demo/demoscene
+      Dependencies: {}
+    Info_25:
+      Name: assets/bbgo/finalpatch/demo/editor/resources/finalpatcheditordata
+      Dependencies: {}
+    Info_26:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/cube_b
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+    Info_27:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/cube_g
+      Dependencies: {}
+    Info_28:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/cube_r
+      Dependencies:
+        Dependency_0: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+    Info_29:
+      Name: assets/bbgo/finalpatch/demo/res/cuberes/triangle
+      Dependencies: {}
+    Info_30:
+      Name: assets/bbgo/finalpatch/demo/res/square
+      Dependencies: {}
+    Info_31:
+      Name: assets/bbgo/finalpatch/demo/resources/finalpatchdata
+      Dependencies: {}
+    Info_32:
+      Name: assets/bbgo/finalpatch/editor/resources/browse
+      Dependencies: {}
+    Info_33:
+      Name: assets/bbgo/finalpatch/editor/resources/copy
+      Dependencies: {}
+    Info_34:
+      Name: assets/bbgo/finalpatch/editor/resources/delete
+      Dependencies: {}
+    Info_35:
+      Name: assets/bbgo/finalpatch/editor/resources/discard
+      Dependencies: {}
+    Info_36:
+      Name: assets/bbgo/finalpatch/editor/resources/edit
+      Dependencies: {}
+    Info_37:
+      Name: assets/bbgo/finalpatch/editor/resources/make
+      Dependencies: {}
+    Info_38:
+      Name: assets/bbgo/finalpatch/editor/resources/reveal
+      Dependencies: {}
+    Info_39:
+      Name: assets/bbgo/finalpatch/editor/resources/save
+      Dependencies: {}
+    Info_40:
+      Name: assets/bbgo/finalpatch/editor/resources/tab
+      Dependencies: {}
+    Info_41:
+      Name: assets/bbgo/finalpatch/editor/resources/tabborder
+      Dependencies: {}
+    Info_42:
+      Name: assets/bbgo/finalpatch/editor/resources/tabborderpro
+      Dependencies: {}
+    Info_43:
+      Name: assets/bbgo/finalpatch/editor/resources/tabpro
+      Dependencies: {}
+    Info_44:
+      Name: assets/bbgo/finalpatch/editor/resources/tabselected
+      Dependencies: {}
+    Info_45:
+      Name: assets/bbgo/finalpatch/editor/resources/tabselectedpro
+      Dependencies: {}
+    Info_46:
+      Name: assets/editor/resources/finalpatcheditordata
+      Dependencies: {}
+    Info_47:
+      Name: assets/fbx/globe360
+      Dependencies: {}
+    Info_48:
+      Name: assets/materials/gyro_globe
+      Dependencies:
+        Dependency_0: assets/textures/watermark
+    Info_49:
+      Name: assets/materials/m_cube
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/images/progress-bar
+    Info_50:
+      Name: assets/movieplayer/changelog
+      Dependencies: {}
+    Info_51:
+      Name: assets/movieplayer/sample movies/sintel (480p mjpeg, 2ch24khz alaw).avi
+      Dependencies: {}
+    Info_52:
+      Name: assets/movieplayer/scenes/featuredemo
+      Dependencies:
+        Dependency_0: assets/movieplayer/sample movies/sintel (480p mjpeg, 2ch24khz
+          alaw).avi
+        Dependency_1: assets/movieplayer/scenes/materials/movieplayer material
+    Info_53:
+      Name: assets/movieplayer/scenes/materials/movieplayer material
+      Dependencies: {}
+    Info_54:
+      Name: assets/movieplayer/scenes/scriptingdemo
+      Dependencies: {}
+    Info_55:
+      Name: assets/movieplayer/scenes/simpleusage
+      Dependencies:
+        Dependency_0: assets/movieplayer/sample movies/sintel (480p mjpeg, 2ch24khz
+          alaw).avi
+    Info_56:
+      Name: assets/movieplayer/shaders/unlit_texture_manualgamma
+      Dependencies: {}
+    Info_57:
+      Name: assets/movieplayer/shaders/unlit_transparent_chromakey
+      Dependencies: {}
+    Info_58:
+      Name: assets/plugins/betterstreamingassets/bsa_testscene
+      Dependencies: {}
+    Info_59:
+      Name: assets/plugins/betterstreamingassets/readme
+      Dependencies: {}
+    Info_60:
+      Name: assets/resources/data
+      Dependencies:
+        Dependency_0: assets/resources/globebytes/hotspot_arisa_pool_hr.jpg
+        Dependency_1: assets/resources/globebytes/hotspot_arisa_skybbq_hr_v2.jpg
+    Info_61:
+      Name: assets/resources/finalpatchdata
+      Dependencies: {}
+    Info_62:
+      Name: assets/resources/globebytes/hotspot_arisa_pool_hr.jpg
+      Dependencies: {}
+    Info_63:
+      Name: assets/resources/globebytes/hotspot_arisa_skybbq_hr_v2.jpg
+      Dependencies: {}
+    Info_64:
+      Name: assets/resources/rabbit.avi
+      Dependencies: {}
+    Info_65:
+      Name: assets/scenes/patcheslauncher_v1
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_1: assets/textures/watermark
+    Info_66:
+      Name: assets/scenes/samplescene
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/prefabs/assetbundlesmagic
+        Dependency_1: assets/textures/watermark
+    Info_67:
+      Name: assets/scenes/scenes_for_bundles/gyro_v1
+      Dependencies:
+        Dependency_0: assets/fbx/globe360
+        Dependency_1: assets/materials/gyro_globe
+        Dependency_2: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_3: assets/textures/360phone
+        Dependency_4: assets/textures/360touch
+        Dependency_5: assets/textures/gyro_rendertexture
+    Info_68:
+      Name: assets/scenes/scenes_for_bundles/plans_v1_old
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_1: assets/textures/plans/2436x1125_01-lot2398-miri-grd-unit-1-a4-11072018-1
+        Dependency_2: assets/textures/plans/2436x1125_02-lot2398-miri-grd-unit-2-a4-11072018-1
+        Dependency_3: assets/textures/plans/2436x1125_03-lot2398-miri-grd-unit-3-a4-11072018-1
+        Dependency_4: assets/textures/plans/tower a level 12
+        Dependency_5: assets/textures/plans/tower a level 13-22,25-39,42-50
+        Dependency_6: assets/textures/plans/tower a level 23
+        Dependency_7: assets/textures/plans/type a
+        Dependency_8: assets/textures/plans/type b
+    Info_69:
+      Name: assets/scenes/scenes_for_bundles/video_v1
+      Dependencies:
+        Dependency_0: assets/resources/rabbit.avi
+        Dependency_1: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_2: assets/textures/watermark
+    Info_70:
+      Name: assets/scenes/scenesmenu_v1
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/images/rotating_loading
+        Dependency_1: assets/assetbundlemagic/prefabs/assetbundlesmagic
+        Dependency_2: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+    Info_71:
+      Name: assets/scenes/splash_v1
+      Dependencies:
+        Dependency_0: assets/assetbundlemagic/prefabs/assetbundlesmagic
+        Dependency_1: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+    Info_72:
+      Name: assets/textmesh pro/fonts/liberationsans
+      Dependencies: {}
+    Info_73:
+      Name: assets/textmesh pro/fonts/liberationsans - ofl
+      Dependencies: {}
+    Info_74:
+      Name: assets/textmesh pro/resources/fonts & materials/liberationsans sdf
+      Dependencies:
+        Dependency_0: assets/textmesh pro/fonts/liberationsans
+        Dependency_1: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf - fallback
+        Dependency_2: assets/textmesh pro/resources/shaders/tmp_sdf-mobile
+    Info_75:
+      Name: assets/textmesh pro/resources/fonts & materials/liberationsans sdf - drop
+        shadow
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_1: assets/textmesh pro/resources/shaders/tmp_sdf-mobile
+    Info_76:
+      Name: assets/textmesh pro/resources/fonts & materials/liberationsans sdf - fallback
+      Dependencies:
+        Dependency_0: assets/textmesh pro/fonts/liberationsans
+        Dependency_1: assets/textmesh pro/resources/shaders/tmp_sdf-mobile
+    Info_77:
+      Name: assets/textmesh pro/resources/fonts & materials/liberationsans sdf - outline
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_1: assets/textmesh pro/resources/shaders/tmp_sdf-mobile
+    Info_78:
+      Name: assets/textmesh pro/resources/linebreaking following characters
+      Dependencies: {}
+    Info_79:
+      Name: assets/textmesh pro/resources/linebreaking leading characters
+      Dependencies: {}
+    Info_80:
+      Name: assets/textmesh pro/resources/shaders/tmp_bitmap
+      Dependencies: {}
+    Info_81:
+      Name: assets/textmesh pro/resources/shaders/tmp_bitmap-custom-atlas
+      Dependencies: {}
+    Info_82:
+      Name: assets/textmesh pro/resources/shaders/tmp_bitmap-mobile
+      Dependencies: {}
+    Info_83:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf
+      Dependencies: {}
+    Info_84:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf overlay
+      Dependencies: {}
+    Info_85:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf-mobile
+      Dependencies: {}
+    Info_86:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf-mobile masking
+      Dependencies: {}
+    Info_87:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf-mobile overlay
+      Dependencies: {}
+    Info_88:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf-surface
+      Dependencies: {}
+    Info_89:
+      Name: assets/textmesh pro/resources/shaders/tmp_sdf-surface-mobile
+      Dependencies: {}
+    Info_90:
+      Name: assets/textmesh pro/resources/shaders/tmp_sprite
+      Dependencies: {}
+    Info_91:
+      Name: assets/textmesh pro/resources/shaders/tmpro
+      Dependencies: {}
+    Info_92:
+      Name: assets/textmesh pro/resources/shaders/tmpro_properties
+      Dependencies: {}
+    Info_93:
+      Name: assets/textmesh pro/resources/shaders/tmpro_surface
+      Dependencies: {}
+    Info_94:
+      Name: assets/textmesh pro/resources/sprite assets/emojione
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/shaders/tmp_sprite
+        Dependency_1: assets/textmesh pro/sprites/emojione
+    Info_95:
+      Name: assets/textmesh pro/resources/style sheets/default style sheet
+      Dependencies: {}
+    Info_96:
+      Name: assets/textmesh pro/resources/tmp settings
+      Dependencies:
+        Dependency_0: assets/textmesh pro/resources/fonts & materials/liberationsans
+          sdf
+        Dependency_1: assets/textmesh pro/resources/linebreaking following characters
+        Dependency_2: assets/textmesh pro/resources/linebreaking leading characters
+        Dependency_3: assets/textmesh pro/resources/sprite assets/emojione
+        Dependency_4: assets/textmesh pro/resources/style sheets/default style sheet
+    Info_97:
+      Name: assets/textmesh pro/sprites/emojione
+      Dependencies: {}
+    Info_98:
+      Name: assets/textmesh pro/sprites/emojione attribution
+      Dependencies: {}
+    Info_99:
+      Name: assets/textures/360phone
+      Dependencies: {}
+    Info_100:
+      Name: assets/textures/360touch
+      Dependencies: {}
+    Info_101:
+      Name: assets/textures/gyro_rendertexture
+      Dependencies: {}
+    Info_102:
+      Name: assets/textures/plans/2436x1125_01-lot2398-miri-grd-unit-1-a4-11072018-1
+      Dependencies: {}
+    Info_103:
+      Name: assets/textures/plans/2436x1125_02-lot2398-miri-grd-unit-2-a4-11072018-1
+      Dependencies: {}
+    Info_104:
+      Name: assets/textures/plans/2436x1125_03-lot2398-miri-grd-unit-3-a4-11072018-1
+      Dependencies: {}
+    Info_105:
+      Name: assets/textures/plans/tower a level 12
+      Dependencies: {}
+    Info_106:
+      Name: assets/textures/plans/tower a level 13-22,25-39,42-50
+      Dependencies: {}
+    Info_107:
+      Name: assets/textures/plans/tower a level 23
+      Dependencies: {}
+    Info_108:
+      Name: assets/textures/plans/type a
+      Dependencies: {}
+    Info_109:
+      Name: assets/textures/plans/type b
+      Dependencies: {}
+    Info_110:
+      Name: assets/textures/watermark
+      Dependencies: {}
+    Info_111:
+      Name: packages/com.unity.textmeshpro/editor resources/gizmos/tmp - font asset
+        icon
+      Dependencies: {}
+    Info_112:
+      Name: packages/com.unity.textmeshpro/editor resources/gizmos/tmp - text component
+        icon
+      Dependencies: {}
+    Info_113:
+      Name: packages/com.unity.textmeshpro/editor resources/gizmos/tmp - sprite asset
+        icon
+      Dependencies: {}

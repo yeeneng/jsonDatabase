@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1444792602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b61277147758a2e0ac63fb7004ebc805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 109
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4059788286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8c7eafd84d6e2757d7326abb041c8c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a15026e7645264409a88f84f584030a1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleMagic/Models/Materials/House.mat
+Dependencies: []

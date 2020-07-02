@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3292824461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b660177779e453d65fa1bc05d6d8751
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleMagic/Images/colored_circle.png
+Dependencies: []

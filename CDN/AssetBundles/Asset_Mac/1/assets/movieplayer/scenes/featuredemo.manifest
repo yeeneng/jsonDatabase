@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2542055374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7918beeb33ab07705d4a454ce5d2a280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03505f26f6d51fb11fe40adeab587d08
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44cf5ea04b7b2a24bb38016ccf890843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ef719e6eb21bda4aaec7bd8c8d3d2e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8712039e785010e4680b20a79845db94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/MoviePlayer/Scenes/FeatureDemo.unity
+Dependencies:
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/movieplayer/sample
+  movies/sintel (480p mjpeg, 2ch24khz alaw).avi
+- /Users/architree/Desktop/Works/2018.3/AssetBundleTest/AssetBundles/Asset_Mac/Full/1/assets/movieplayer/scenes/materials/movieplayer
+  material

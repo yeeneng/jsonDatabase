@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4187478158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 539f3a9a3fcf605ace1eb76d4ee1556b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GlobeBytes/Hotspot_Arisa_SkyBBQ_HR_V2.jpg.bytes
+Dependencies: []

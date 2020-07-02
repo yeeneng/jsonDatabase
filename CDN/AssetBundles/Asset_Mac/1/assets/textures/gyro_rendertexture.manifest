@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3797037556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c653a0788b7a5ca8a3beb832df4ad99c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca637ba5617d79359be14e488ee64d4d
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Gyro_RenderTexture.renderTexture
+Dependencies: []

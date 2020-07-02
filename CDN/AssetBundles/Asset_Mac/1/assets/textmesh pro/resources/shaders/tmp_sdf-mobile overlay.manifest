@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3967356445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f7360ecd878a7b58bad0d108eae4594
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+Dependencies: []

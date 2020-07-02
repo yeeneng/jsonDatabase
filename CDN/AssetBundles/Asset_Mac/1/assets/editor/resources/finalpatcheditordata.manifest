@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3556926262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68414f28c3b6929c414b0ba0f2413cf7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Editor/Resources/FinalPatchEditorData.asset
+Dependencies: []
